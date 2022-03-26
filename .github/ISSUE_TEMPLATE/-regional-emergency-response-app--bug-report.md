@@ -3,7 +3,7 @@ name: "[Regional Emergency Response App] Bug report"
 about: Create a report to help us improve the Regional Emergency Response App
 title: "[BUG]: issue title"
 labels: regemerrespapp
-assignees: narpad
+assignees: ''
 
 ---
 
